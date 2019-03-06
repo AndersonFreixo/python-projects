@@ -1,3 +1,6 @@
+#Trigonometric Circle that shows the values for the sine and cosine using Pygame.
+#Author: Anderson Soares Freixo anderson.freixo@gmail.com
+
 import pygame
 import math
 
